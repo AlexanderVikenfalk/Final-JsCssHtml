@@ -1,0 +1,124 @@
+body{
+	background-color: #111111;
+	color: #f3f3f3;
+	margin: 0px; 
+}
+
+/*Header*/
+nav {
+	color:#737373;
+	/*background-color: pink;*/
+	width: auto 100%;
+	/*background-color: white;*/
+	/*border-bottom: solid;
+	border-bottom-color: #bfbfbf;*/
+	}
+
+
+div.logo {
+	width: 10%;
+	/*display: inline-block;*/
+    float: left;
+	/*background-color: green;*/
+    /*left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;*/
+    /*text-align: center;*/
+}
+
+img.autoSize {
+    width: 100px;
+    height: 100px;
+}
+
+
+li.banner{
+	font-size: 40px;
+	margin-right: 1em;
+	margin-left: 1em;
+	font-family: 'Six Caps', sans-serif;
+	letter-spacing: 2px;
+	/*font-weight: bold;*/
+}
+
+ul{
+	list-style: none;
+	padding-left:0;
+}
+
+/*Links*/
+a:link {
+	color:inherit;
+	text-decoration: none;
+}
+
+a:visited{
+	color:inherit;
+}
+
+a:hover {
+    color:white;
+}
+
+/*Main*/
+main {
+    /*display:block;*/
+    /*width:100%;*/
+	/*padding-left:1%;
+	padding-right:1%;*/
+	margin: 0 10% 0 10%;
+	padding: 0 0 0 1%;
+	/*background-color: blue;*/
+}
+
+
+.border {
+	display: inline-block;
+	padding: 0% 0% 2% 0%;
+	width: 95%;
+	height: 1px;
+	/*background-color: orange;*/
+	border-bottom-style: solid;
+	border-bottom-color: #bfbfbf
+}
+
+.imgcontainer {
+	margin: 20px 1.5% 10px 1.5%;
+	display: inline-block;
+	background-color: lightblue;
+}
+
+.grid {
+    /*float:left;*/
+	/*border-style: solid;
+    border-color: black;*/
+	height: 350px;
+	width: 350px;		
+	/*Kanske tas bort. Ev behålla borden ovan.*/
+	box-shadow: 5px 5px black;
+	background-color: orange;
+}
+
+.imgtext {
+	text-align:left;
+	color:#737373;
+}
+
+/*Footer*/
+
+footer{
+	float: left;
+	width: 100%;
+}
+
+.wrap{
+	position: relative;
+	text-align: center;
+	/*background-color: blue;*/
+}
+
+.footerlogo{
+	width: 100px;
+	height: 100px;
+}
