@@ -13,4 +13,4 @@ This project is made as the final project for a school course. The website is cr
 
 [Link to Project](https://alexandervikenfalk.github.io/webpage-random-records/)
 
-[LinkedIn](https://www.linkedin.com/in/alexander-wikenfalk-6b993b42)
+[LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
